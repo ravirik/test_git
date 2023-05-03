@@ -5,6 +5,10 @@ line 4
 line 5
 
 line 8 in github
+<<<<<<< HEAD
 line 9 in github
 line 10 in github
 line 11 in local
+=======
+line 9 in glow
+>>>>>>> 7ed9ef1f7999db098664541e9c7be8f218a2d721
